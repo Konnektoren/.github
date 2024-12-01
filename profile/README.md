@@ -2,7 +2,9 @@
 
 The project is a web application that helps German learners to practice the use of Konnektoren.
 
-# Konnektoren.help
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/konnektoren/konnektoren)
+
+## Konnektoren.help
 
 The website is at [Konnektoren.help](https://konnektoren.help)
 
